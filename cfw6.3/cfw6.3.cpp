@@ -17,7 +17,7 @@ void sq() {
 		}printf("\n");
 	}
 
-}
+} 
 
 int main() {
 	sqa();
